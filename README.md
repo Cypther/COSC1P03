@@ -1,4 +1,4 @@
-# COSC1P03
+# COSC1P03 Data Structures and Abstraction
 
 Assignment 1: A word search puzzle
 
